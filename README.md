@@ -6,4 +6,4 @@ Stevie's favorite ice cream flavors:
 
 - Chocolate
 - Vainilla
-- Ferrero
+- Ferreros
